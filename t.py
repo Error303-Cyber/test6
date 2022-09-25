@@ -329,8 +329,6 @@ def jalan(z):
         sys.stdout.write(e)
         sys.stdout.flush()
         time.sleep(0.03)
-
-        \033[1;92m  ║\x1b[1;92m\x1b[1;45m THE KING OF PROGRAMMING \033[0;m\x1b[1;92m║
 ==========================================================================
 [+] AUTHOR   : TWOAHA IBN JALAL
 [+] FACEBOOK : TWOAHA IBN JALAL 
