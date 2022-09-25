@@ -329,7 +329,6 @@ def jalan(z):
         sys.stdout.write(e)
         sys.stdout.flush()
         time.sleep(0.03)
-==========================================================================
 [+] AUTHOR   : TWOAHA IBN JALAL
 [+] FACEBOOK : TWOAHA IBN JALAL 
 [+] GITHUB   : TWOAHA
